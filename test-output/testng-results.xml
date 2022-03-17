@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29680" started-at="2022-03-16T11:49:06Z" finished-at="2022-03-16T11:49:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29680" started-at="2022-03-16T11:49:06Z" finished-at="2022-03-16T11:49:36Z">
+      <class name="com.crm.OrganizationTests.CreateOrganizationTest">
+        <test-method status="PASS" signature="createOrganizationTest()[pri:0, instance:com.crm.OrganizationTests.CreateOrganizationTest@343f4d3d]" name="createOrganizationTest" duration-ms="29634" started-at="2022-03-16T11:49:06Z" finished-at="2022-03-16T11:49:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrganizationTest -->
+      </class> <!-- com.crm.OrganizationTests.CreateOrganizationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
